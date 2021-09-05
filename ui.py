@@ -242,7 +242,7 @@ class Ui_Dialog(object):
                 u"USER GUIDE:\n"
                 "\n"
                 "1. Install Google Tesseract OCR engine from: https://github.com/tesseract-ocr/tesseract\n"
-                "2. Download poppler from: https://poppler.freedesktop.org/\n"
+                "2. Download poppler from: http://blog.alivate.com.au/poppler-windows/\n"
                 "3. Go to the Settings tab and use Browse button to locate: tesseract.exe file and bin folder for poppler\n"
                 "4. Go to the Convert tab and select the PDF file to convert, output folder where the files should be extracted into, and (optionally) filename of the output file\n"
                 "5. Wait for the converter to be done, watch the status bar at the bottom of the Convert tab to be notified when the processing ends",
