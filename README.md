@@ -18,3 +18,7 @@ This program contains four simple modules: pdf-converter.py is the root of the p
 
 This repository comes with a sample text of lorem-ipsum to check if everything works fine. 
 
+# Author's note
+
+You can use any piece of code in this repository freely without my consent. I will be glad to have contributed enough so my work can be reused in other people's programs. 
+
