@@ -4,7 +4,7 @@ The pdf-converter is a simple tool that uses tesseract to convert images to text
 
 # Contents
 
-This program contains four simple modules: pdf-converter.py is the root of the program, ui.py is the frame of the application created with QT Designer, settings.py is a small json program that creates a json file with stored filepath for tesseract.exe and poppler/bin, as well as engine.py that handles the conversion. Pdf-converter adds controls to the ui and makes sure the initial setup is done, i.e. user specified the file to be converter, where it should be stored, what should be the output file's name (if not specified, the file will be named by default "output file"). The user will be notified of the progress at the bottom of the Convert tab, where the status bar displays 'in progress' and 'file converted' messages.
+This program contains four simple modules: pdf-convert.py is the root of the program, ui.py is the frame of the application created with QT Designer, settings.py is a small json program that creates a json file with stored filepath for tesseract.exe and poppler/bin, as well as engine.py that handles the conversion. Pdf-convert adds controls to the ui and makes sure the initial setup is done, i.e. user specified the file to be converter, where it should be stored, what should be the output file's name (if not specified, the file will be named by default "output file"). The user will be notified of the progress at the bottom of the Convert tab, where the status bar displays 'in progress' and 'file converted' messages.
 
 # User Guide
 
